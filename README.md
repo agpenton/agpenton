@@ -1,5 +1,5 @@
-- Hi, I’m @agpenton
-- I’m interested in automating, and optimising mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes.
-- I’m currently learning Golang, and any new tool to make the DevOps process easier and faster. 
-- I’m looking to collaborate on any project to make the tech world a better place. 
-<!-- - 📫 How to reach me ... -->
+- 👋 Hi, I’m **@agpenton**
+- 🚀 I’m passionate about **automating and optimizing mission-critical deployments on AWS**, leveraging **infrastructure as code, CI/CD pipelines, and modern DevOps practices**.
+- 🛠 Currently diving deeper into **Golang**, and always exploring **new tools and frameworks to streamline the DevOps lifecycle**.
+- 🤝 I’m eager to **collaborate on projects that drive innovation and make the tech world a better place**.
+- 💡 Always open to connecting with like-minded professionals and learning new ways to solve complex problems.

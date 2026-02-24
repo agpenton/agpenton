@@ -3,7 +3,7 @@
 I design and build **secure, scalable, and highly available cloud platforms** on **AWS and Azure**, helping teams ship faster with confidence.
 
 ## 🔹 Specializations
-- Infrastructure as Code (**Terraform, Bicep, CloudFormation**)
+- Infrastructure as Code (**Terraform, Pulumi, CloudFormation**)
 - CI/CD, GipOps & Platform Engineering
 - Kubernetes & containerized workloads
 - Cloud networking, security, and reliability engineering

@@ -1,5 +1,21 @@
-- 👋 Hi, I’m **@agpenton**
-- 🚀 I’m passionate about **automating and optimizing mission-critical deployments on AWS and Azure**, leveraging **infrastructure as code, CI/CD pipelines, and modern DevOps practices**.
-- 🛠 Currently diving deeper into **Golang**, and always exploring **new tools and frameworks to streamline the DevOps lifecycle**.
-- 🤝 I’m eager to **collaborate on projects that drive innovation and make the tech world a better place**.
-- 💡 Always open to connecting with like-minded professionals and learning new ways to solve complex problems.
+# 👋 Hi, I’m @agpenton
+
+I design and build **secure, scalable, and highly available cloud platforms** on **AWS and Azure**, helping teams ship faster with confidence.
+
+## 🔹 Specializations
+- Infrastructure as Code (**Terraform, Bicep, CloudFormation**)
+- CI/CD, GipOps & Platform Engineering
+- Kubernetes & containerized workloads
+- Cloud networking, security, and reliability engineering
+- Automation at scale
+
+## 🔹 Focus Areas
+- Turning complex infrastructure into **repeatable, production-grade platforms**
+- Improving **deployment speed, system resilience, and operational excellence**
+- Enabling teams through **self-service platforms and DevOps best practices**
+
+## 🧠 Currently
+Deepening my expertise in **Golang** and building internal tooling to enhance platform automation.
+
+## 🤝 Let’s Connect
+Open to collaborating on impactful **cloud-native projects** and solving large-scale infrastructure challenges.
